@@ -1,4 +1,4 @@
-<b><p align="middle"> L<img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/1.jpg"> <p><b>
+<b><p align="middle"> L<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/dog2.gif"> <p><b>
 
 <center>This is my readme! 
 I did my commit.
