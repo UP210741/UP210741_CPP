@@ -1,4 +1,4 @@
-<b><p align="middle"> <img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/1.jpg"> <p><b>
+<b><p align="middle"> <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/1.jpg"> <p><b>
 
 <center>This is my readme! 
 I did my commit.
@@ -22,5 +22,13 @@ U4 Files and arrays.
 |[@adrianagalot](https://www.instagram.com/adrianagalot/)| <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/IMG_8051.JPG"> 
 |[@adrianagalot](https://twitter.com/adrianagalot)| <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/IMG_8054.JPG"> 
 |[@adrianagalot](https://www.tiktok.com/@adrianagalot?lang=es)| <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/IMG_8053.JPG"> 
+  
+  
+git status: Ayuda a saber el estatus de tus archivos
 
+git add . : Actualizaciones en github.
+
+git commit -m "comentario o explicacion" : Mensaje al subir archivos. 
+
+git push: Actualiza el github con los cambios.
 
