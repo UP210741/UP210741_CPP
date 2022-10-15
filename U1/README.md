@@ -111,7 +111,7 @@ ___
  *salida*
 ---
 
-<img src=https://github.com/UP210741/UP210741_CPP/blob/main/IMG/td.png">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/td.png">
 
 ---
 
