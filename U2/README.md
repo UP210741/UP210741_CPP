@@ -1,4 +1,4 @@
-<b><p align="middle"> <https://https://github.com/UP210741/UP210741_CPP/blob/main/IMG/3.png"> <p><b>
+<b><p align="middle"> <https://github.com/UP210741/UP210741_CPP/blob/main/IMG/3.png"> <p><b>
 
 ## ***U2:*** Control structures and cycles.
 
