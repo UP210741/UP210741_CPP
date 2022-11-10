@@ -319,7 +319,7 @@ int main(int argc, char const *argv[])
  
  <center>
 
-> ### 6. compras:   
+> ### 7. cadenas:   
 
 </center>
 
@@ -350,7 +350,7 @@ int main(int argc, char const *argv[])
 ---
 
 <center>
-
+---
  *salida*
 ---
 
