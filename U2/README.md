@@ -351,12 +351,11 @@ int main(int argc, char const *argv[])
 ---
 
 <center>
----
+ 
  *salida*
 ---
 
 <img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/7.2.png">
 
----
 
 </center>
