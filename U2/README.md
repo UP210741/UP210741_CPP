@@ -5,7 +5,7 @@
 
 <center>
 
-> ### 1. Impuesto.  
+> ### 1. Impuesto:
 
 </center>
 
@@ -61,7 +61,7 @@ int main()
 
 <center>
 
-> ### 2. Rendimiento 
+> ### 2. Rendimiento:
 
 </center>
 
@@ -116,7 +116,7 @@ ___
 
 </center>
 
-> ### 3. Sala de juegos 
+> ### 3. Sala de juegos:
 
 </center>
 
@@ -163,7 +163,7 @@ ___
 
 </center>
 
-> ### 4. pizza:
+> ### 4. Pizza:
 > 
 </center>
 
@@ -230,7 +230,7 @@ int main(int argc, char const *argv[])
 <img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/4.2.png">
 
 ---
-> ### 5. edades: 
+> ### 5. Edades: 
 
 </center>
 
@@ -275,7 +275,7 @@ ___
  
  <center>
 
-> ### 6. compras:   
+> ### 6. Compras:   
 
 </center>
 
@@ -320,7 +320,7 @@ int main(int argc, char const *argv[])
  
  <center>
 
-> ### 7. cadenas:   
+> ### 7. Cadenas:   
 
 </center>
 
