@@ -28,8 +28,6 @@ U4 Files and arrays.
 |git status| Ayuda a saber el estatus de tus archivos.
 |--------------|--------------|
 |git add . | Actualizaciones en github.
-|--------------|--------------|
 |git commit -m "comentario o explicacion" | Mensaje al subir archivos.
-|--------------|--------------|
 |git push| Actualiza el github con los cambios.
 
