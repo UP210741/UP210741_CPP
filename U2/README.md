@@ -53,7 +53,7 @@ int main()
  *salida*
 ---
 
-<img src="1">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/1.2.png">
 
 ---
 
@@ -110,7 +110,7 @@ ___
  *salida*
 ---
 
-<img src="2">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/2.2.png">
 
 ---
 
@@ -157,7 +157,7 @@ ___
  *salida*
 ---
 
-<img src="3">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/3.2.png">
 
 ---
 
@@ -227,7 +227,7 @@ int main(int argc, char const *argv[])
  *salida*
 ---
 
-<img src="4">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/4.2.png">
 
 ---
 > ### 5. edades: 
@@ -269,7 +269,7 @@ ___
  *salida*
 ---
 
-<img src="4">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/5.2.png">
 
  ----
  
@@ -310,7 +310,7 @@ int main(int argc, char const *argv[])
  *salida*
 ---
 
-<img src="6">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/6.2.png">
 
 ---
 
@@ -355,7 +355,7 @@ int main(int argc, char const *argv[])
  *salida*
 ---
 
-<img src="7">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/7.2.png">
 
 ---
 
