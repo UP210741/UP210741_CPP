@@ -23,14 +23,11 @@ U4 Files and arrays.
 |[@adrianagalot](https://twitter.com/adrianagalot)| <img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/IMG_8054.jpg"> 
 |[@adrianagalot](https://www.tiktok.com/@adrianagalot?lang=es)| <img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/IMG_8053.jpg"> 
   
-  
+|Comando| <b><p align="middle"> SM <p><b>|
 |--------------|--------------|
 |git status| Ayuda a saber el estatus de tus archivos.
-|--------------|--------------|
 |git add . | Actualizaciones en github.
-|--------------|--------------|
 |git commit -m "comentario o explicacion" | Mensaje al subir archivos.
-|--------------|--------------|
 |git push| Actualiza el github con los cambios.
-|--------------|--------------|
+
 
