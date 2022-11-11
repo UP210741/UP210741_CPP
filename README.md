@@ -25,11 +25,11 @@ U4 Files and arrays.
   
   
 |--------------|------|  
-|git status| Ayuda a saber el estatus de tus archivos|
+|git status| Ayuda a saber el estatus de tus archivos.
 
-|git add . | Actualizaciones en github.|
+|git add . | Actualizaciones en github.
 
-|git commit -m "comentario o explicacion" | Mensaje al subir archivos.|
+|git commit -m "comentario o explicacion" | Mensaje al subir archivos.
 
-|git push| Actualiza el github con los cambios.|
+|git push| Actualiza el github con los cambios.
 
