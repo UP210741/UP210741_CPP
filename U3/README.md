@@ -359,14 +359,18 @@ int main(int argc, char const *argv[])
 <img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/7.2.png">
 
 
- </center>
-
-> ### 8. Vector:   
+---
 
 </center>
 
- ___
- ```
+<center>
+
+> ### 8. Vector: 
+
+</center>
+
+___
+```
 #include <iostream>
 using namespace std;
 #include <math.h>
