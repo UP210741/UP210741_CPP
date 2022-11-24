@@ -9,7 +9,7 @@ I am a student of systems engineering :) </center>
 
 [U2 Control structures and cycles.](https://github.com/UP210741/UP210741_CPP/tree/main/U2)
 
-U3 Functions.
+[U3 Functions.](https://github.com/UP210741/UP210741_CPP/tree/main/U3)
 
 U4 Files and arrays.
 
