@@ -360,8 +360,6 @@ int main(int argc, char const *argv[])
 
 
  </center>
-<center>
- <center>
 
 > ### 8. Vector:   
 
