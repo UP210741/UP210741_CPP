@@ -1,5 +1,5 @@
 
-<b><p align="middle"> <img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/3.png"> <p><b>
+<b><p align="middle"> <img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/4.jpg"> <p><b>
 
 ## ***U2:*** Control structures and cycles.
 
@@ -54,7 +54,7 @@ int main()
  *salida*
 ---
 
-<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/1.2.png">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/1.3.png">
 
 ---
 
@@ -103,7 +103,7 @@ ___
  *salida*
 ---
 
-<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/2.2.png">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/2.3.png">
 
 ---
 
@@ -151,7 +151,7 @@ ___
  *salida*
 ---
 
-<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/3.2.png">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/3.3.png">
 
 ---
 
@@ -213,7 +213,7 @@ int main()
  *salida*
 ---
 
-<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/4.2.png">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/3.3.png">
 
 ---
 > ### 5. Desgloce: 
@@ -290,7 +290,7 @@ ___
  *salida*
 ---
 
-<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/5.2.png">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/4.3.png">
 
  ----
  
@@ -436,7 +436,7 @@ int main()
  *salida*
 ---
 
-<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/6.2.png">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/5.3.png">
 
 ---
 
@@ -485,7 +485,7 @@ int main()
  *salida*
 ---
 
-<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/7.2.png">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/6.3.png">
 
 
 ---
@@ -537,7 +537,7 @@ int main()
  *salida*
 ---
 
-<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/7.2.png">
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/7.3.png">
 
 
  </center>
