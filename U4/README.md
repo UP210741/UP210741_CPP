@@ -267,6 +267,7 @@ int main (){
 ```
 ---
  
+<center>
 
  *FLOW CHART*
 ---
