@@ -262,6 +262,8 @@ int main (){
 ---
 
 </center>
+ 
+<center>
 
 ```
 ---
