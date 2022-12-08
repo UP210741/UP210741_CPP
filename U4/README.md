@@ -18,10 +18,7 @@ Bertha Adriana López Morales        UP210741
 ## ***GAME:*** T I C  T A C  T O E 
  
 
-```
----
 
-<center>
 
  *salida*
 ---
@@ -36,5 +33,3 @@ Bertha Adriana López Morales        UP210741
 <img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/Diagrama%20en%20blanco.png">
 
 ---
-
-</center>
