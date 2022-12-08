@@ -261,14 +261,6 @@ int main (){
 
 ---
 
- 
-<center>
-
-```
----
- 
-<center>
-
  *FLOW CHART*
 ---
 
