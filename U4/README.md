@@ -5,7 +5,7 @@
 
 <center>
 
-## ***JUEGO:*** TIC TAC TOE. 
+## ***GAME*** T I C  T A C  T O E 
  
 
 </center>
