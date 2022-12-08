@@ -248,3 +248,17 @@ int main (){
     
     return 0; 
 }
+
+```
+---
+
+<center>
+
+ *FLOW CHART*
+---
+
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/Diagramadeflujo.jpg">
+
+---
+
+</center>
