@@ -254,6 +254,20 @@ int main (){
 
 <center>
 
+ *salida*
+---
+
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/1.2.png">
+
+---
+
+</center>
+
+```
+---
+
+<center>
+
  *FLOW CHART*
 ---
 
