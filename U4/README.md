@@ -5,7 +5,7 @@
 
 <center>
 
-## ***GAME*** T I C  T A C  T O E 
+## ***GAME:*** T I C  T A C  T O E 
  
 
 </center>
