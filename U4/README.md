@@ -1,34 +1,62 @@
+<b><p align="middle"> <img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/4.jpg"> <p><b>
 
-<b><p align="middle"> <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/1.jpg"> <p><b>
+## ***U2:*** Control structures and cycles.
 
-<center>This is my readme! 
-I did my commit.
 
-I am a student of systems engineering :) </center> 
+<center>
 
-[U1 Programming introduction.](https://github.com/UP210741/UP210741_CPP/tree/main/U1)
+> ### 1. Bisección:
 
-[U2 Control structures and cycles.](https://github.com/UP210741/UP210741_CPP/tree/main/U2)
+</center>
 
-U3 Functions.
+ ___
+ ```
+#include<iostream>
+#include<cmath>
+using namespace std;
 
-U4 Files and arrays.
+const double E=2.718281828;
 
-<p align="center"> <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/dog2.gif">  
+double Ecuacion(int x)
+{
+   double r;
+   r = pow(x, 2) - 8*x + 15;
+   return r;
+}
 
-|Usuario| <b><p align="middle"> SM <p><b>| 
-|--------------|------|
-|[Adriana Galot](https://www.facebook.com/adrianagalot/)| <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/IMG_8055.JPG">  
-|[@adrigalot](https://t.snapchat.com/nWMSHFyN)| <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/IMG_8052.JPG"> 
-|[@adrianagalot](https://www.instagram.com/adrianagalot/)| <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/IMG_8051.JPG"> 
-|[@adrianagalot](https://twitter.com/adrianagalot)| <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/IMG_8054.JPG"> 
-|[@adrianagalot](https://www.tiktok.com/@adrianagalot?lang=es)| <img src="/Users/adrianagalot/Desktop/UP210741_CPP/IMG/IMG_8053.JPG"> 
-  
-  
-git status: Ayuda a saber el estatus de tus archivos
+double Ecuacion2(double x)
+{
+   double r;
+   r= pow(E, -x) + 4*pow(x, 3) -5;
 
-git add . : Actualizaciones en github.
+   return r;
+}
 
-git commit -m "comentario o explicacion" : Mensaje al subir archivos. 
+int main()
+{
+   int n = 10;
+   int Ec;
+   for (int i = 0; i<= 10; i++)
+   {
+       Ec=Ecuacion(i);
+       cout << "x = " << i << " Resultado de ecuacion  = "<< Ec << endl;
+   }
 
-git push: Actualiza el github con los cambios.
+   return 0;
+}
+
+```
+---
+
+<center>
+
+ *salida*
+---
+
+<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/1.3.png">
+
+---
+
+</center>
+
+<center>
