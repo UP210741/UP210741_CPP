@@ -20,16 +20,9 @@ Bertha Adriana López Morales        UP210741
 
 
 
- *salida*
----
-
-<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/1.2.png">
-
----
-
  *FLOW CHART*
 ---
 
-<img src="https://github.com/UP210741/UP210741_CPP/blob/main/IMG/diagrama.drawio.png">
+<img src="https://raw.githubusercontent.com/UP210741/UP210741_CPP/main/IMG/Diagrama%20en%20blanco.png">
 
 ---
